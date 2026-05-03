@@ -1,4 +1,4 @@
 flask
 gunicorn
 flask-limiter
-flash -cors
+flash-cors
