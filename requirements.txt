@@ -1,0 +1,4 @@
+flask
+gunicrn
+flask-limiter
+flash -cors
